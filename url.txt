@@ -1,1 +1,1 @@
-https://huggingface.co/spaces/farhandraka/milks-quality-predict
+https://huggingface.co/spaces/farhandraka/milk-prediction
